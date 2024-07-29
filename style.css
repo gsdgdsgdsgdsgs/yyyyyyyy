@@ -1,0 +1,526 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: rgb(105, 105, 105);
+    background-image: url(images/3.jpg);
+    padding-bottom: 160px;
+    font-family: arial;
+}
+.Hregister>div>img{
+    height: 15px; width: 15px;
+    margin: 10px;
+}
+.Hregister>div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.Hregister{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+}
+.Hsocial>div>img{
+    height: 15px; width: 15px;
+    margin: 10px;
+}
+.Hsocial{
+    display: flex;
+}
+.List{
+    list-style: none;
+    display: flex;
+    padding: 10px 10px 10px 10px;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+.List>li{
+    transition: 0.5s;
+    padding-right: 30px;
+}
+.hah{
+    margin-right: 400px;
+    font-size: 40px
+}
+.one{
+    color: rgb(255, 196, 0);
+}
+.menu{
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+}
+.two{
+    font-size: 70px;
+    color: white;
+}
+.Vmenu{
+    text-align: center;
+}
+.butt{
+    width: 200px; height: 45px;
+    margin-top: 50px;
+    font-weight: 750;
+}
+.Vmenu>div:first-child{
+    color: rgb(255, 196, 0);
+    letter-spacing: 5px;
+}
+.ONEs{
+    transition: 0.5s;
+    border: 0;
+    background-color: rgb(255, 196, 0);
+}
+.TWOs{
+    transition: 0.5s;
+    color: white;
+    background-color: rgba(0, 0, 0, 0);
+    border: rgb(255, 196, 0) solid;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+.da{
+    margin: 65px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-family: Trebuchet MS;
+}
+.da>div{
+    width: 390px;height: 260px;
+    color: white;
+    margin: 0px 10px;
+}
+.q{
+    background-image: url(images/how-to-fix-garage-door-safely.jpg);
+    background-size: 100%;
+}
+.w{
+    background-image: url(images/stroiteli-2048x1365.jpg);
+    background-size: 100%;
+}
+.e{
+    background-image: url(images/17.12.2020-amur-gpz.jpg);
+    background-size: 100%;
+}
+.mages>.amege{
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+}
+.mages{
+    background-image: url(images/1690973697_furman-top-p-belaya-zastavka-instagram-67.jpg);
+    background-size: 100%;
+    padding: 100px 0px 10px 0px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    font-family: arial;
+    font-weight: 750;
+    font-size: 30px;
+}
+.Mhr{
+    width: 100px;
+    border: 2px solid rgb(255, 196, 0);
+}
+.gsddddd{
+    margin-top: 60px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    font-family: arial;
+    font-weight: 750;
+    font-size: 30px;
+}
+.choose>.ameges{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: arial;
+}
+.pighm{
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+}
+.ameges>img{
+    margin: 10px 10px 10px 10px;
+}
+.Ctext>div{
+    margin: 20px;
+}
+.pikl{
+    margin-bottom: 10px;
+}
+.help_u{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url(images/1690973697_furman-top-p-belaya-zastavka-instagram-67.jpg);
+    background-size: 100%;
+    align-items: center;
+}
+.dahka{
+    display: flex;
+    flex-direction: column;
+    font-family: arial;
+}
+.dahka>div{
+    margin: 20px 0 20px 0;
+}
+.hahka{
+    font-size: 30px;
+}
+.buttons{
+    transition: 0.5s;
+    width: 200px; height: 45px;
+    font-weight: 750;
+    background-color: rgb(255, 196, 0);
+    border: 0 solid;
+}
+.opisanie{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 80px;
+}
+.cart{
+    border: 1px solid rgb(211, 211, 211);
+    padding: 10px;
+    font-family: arial;
+    width: 30%;
+}
+.cart>img{
+    width: 100%;
+}
+.Ftext{
+    font-family: arial;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(images/2stroitel.jpg);
+    background-size: 120%;
+    color: white;
+}
+.FTop{
+    font-size: 23px;
+}
+.ONEK{
+    margin-top: 90px;
+}
+.TWOK{
+    margin-bottom: 30px;
+}
+.KLOS{
+    font-size: 17px;
+    font-weight: 750;
+}
+.TENDED{
+    margin-bottom: 80px;
+    color: rgb(255, 196, 0);
+}
+.Flogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Flogo>img{
+    padding: 30px 60px 30px 60px;
+    
+}
+.gsdddddd{
+    margin-top: 60px;
+    font-weight: 750;
+    font-size: 18px;
+    color: white;
+}
+.Flist{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: rgb(172, 171, 171);
+    font-family: arial;
+}
+.Mmhr{
+    width: 100%;
+    border: 1px solid rgb(255, 196, 0);
+}
+.pask{
+    background-color: rgb(22, 22, 22);
+}
+.Finfo{
+    margin-bottom: 70px;
+}
+.Fbut{
+    height: 30px;width: 100%;
+    background-color: gray;
+    color: rgb(163, 163, 163);
+}
+.Hhregister{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(0, 0, 0);
+    color: gray;
+}
+.Hhregister>div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.Hhsocial>div>img{
+    height: 15px; width: 15px;
+    margin: 10px;
+}
+.Hhsocial{
+    display: flex;
+}
+.List>li:hover{
+    color: rgb(255, 196, 0);
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+.ONEs:hover{
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(255, 196, 0);
+    border: 3px solid rgb(255, 196, 0);
+    transition: 0.5s;
+    transform: scale(1.04);
+}
+.TWOs:hover{
+    background-color: rgb(255, 196, 0);
+    color: black;
+    transition: 0.5s;
+    transform: scale(1.04);
+}
+.buttons:hover{
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(255, 196, 0);
+    border: 3px solid rgb(255, 196, 0);
+    transition: 0.5s;
+    transform: scale(1.04);
+}
+@media (max-width: 1400px) {
+    .List{
+        font-size: 10px;
+    }
+    .hah{
+        margin-right: 200px;
+    }
+    .da>div{
+        height: 193px;
+    }
+}
+@media (max-width: 1160px) {
+    .List{
+        padding-right: 20px;
+    }
+    .Flogo>img{
+        padding: 20px 4% 20px 4%;
+    }
+    .Finfo{
+        width: 100px;
+    }
+    .da>div{
+        height: 170px;
+    }
+    .FTop{
+        font-size: 20px;
+    }
+}
+@media (max-width: 964px) {
+    .List>li{
+        padding-right: 10px;
+    }
+    .Ctext>div{
+        margin: 0px;
+    }
+    .Flogo>img{
+        padding: 20px 3% 20px 3%;
+    }
+    .pighm{
+        margin-right: 5%;
+        width: 500px;
+    }
+    .da>div{
+        height: 130px;
+        font-size: 10px;
+    }
+    .FTop{
+        font-size: 18px;
+    }
+}
+@media (max-width: 800px){
+    .Flogo>img{
+        padding: 20px 1% 20px 1%;
+    } 
+    .hah{
+        margin-right: 100px;
+    }
+    .da>div{
+        height: 80px;
+    }
+    .amege>img{
+        height: 170px;
+    }
+    .Ctext>div{
+        font-size: 10px;
+    }
+    .FTop{
+        font-size: 14px;
+    }
+}
+@media (max-width: 600px){
+    .Finfo{
+        font-size: 16px;
+    }
+    .jir{
+        font-size: 13px;
+    }
+    .cart{
+        font-size: 10px;
+    }
+    .daar{
+        font-size: 20px;
+    }
+    .rrr{
+        font-size: 10px;
+    }
+    .Flogo>img{
+        width: 100px;
+    } 
+    .hah{
+        margin-right: 20px;
+        font-size: 20px
+    }
+    .two{
+        font-size: 40px;
+    }
+    .pikls>img{
+        width: 250px;
+    }
+    .cart{
+        padding: 0px;
+    }
+    .da>div{
+        height: 70px;
+        font-size: 7px;
+    }
+    .amege>img{
+        height: 150px;
+    }
+    .FTop{
+        font-size: 12px;
+    }
+}
+@media (max-width: 550px){
+    .Finfo{
+        font-size: 13px;
+    }
+    .Flogo>img{
+        width: 80px;
+    }
+    .buttons{
+        font-size: 10px;
+        width: 100px;
+    }
+    .butt{
+        font-size: 10px;
+        width: 100px;
+    }
+    .Hregister{
+        font-size: 6px;
+    }
+    .List{
+        font-size: 6px;
+    }
+    .da>div{
+        height: 70px;
+        font-size: 7px;
+    }
+    .amege>img{
+        height: 120px;
+    }
+    .mages{
+        font-size: 20px;
+        height: 100px;
+    }
+    .gsddddd{
+        font-size: 20px;
+    }
+    .gsddddd{
+        font-size: 20px;
+    }
+    .FTop{
+        font-size: 10px;
+    }
+}
+@media (max-width: 450px){
+    .pikls>img{
+        width: 150px;
+    }
+    .Flogo>img{
+        width: 60px;
+    } 
+    .Finfo{
+        width: 70px;
+    }
+    .gsdddddd{
+        font-size: 13px;
+    }
+    .kall{
+        font-size: 10px;
+    }
+    .two{
+        font-size: 20px;
+    }
+    header{
+        padding-bottom: 100px;
+    }
+    .da>div{
+        height: 40px;
+        font-size: 4px;
+    }
+    .amege>img{
+        height: 100px;
+    }
+    .Ctext>div{
+        font-size: 7px;
+    }
+    .FTop{
+        font-size: 7px;
+    }
+    .Finfo{
+        font-size: 10px;
+    }
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
